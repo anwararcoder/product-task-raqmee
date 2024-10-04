@@ -35,8 +35,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/product-management-app.git
-   cd product-management-app
+   git clone https://github.com/your-username/product-task-raqmee.git
+   cd product-task-raqmee
 
 2. Install dependencies:
 

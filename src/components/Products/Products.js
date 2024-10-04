@@ -46,7 +46,7 @@ const Products = () => {
   });
 
   // :: => Pagination
-  const itemsPerPage = 1;
+  const itemsPerPage = 4;
   const [currentPage, setCurrentPage] = useState(1);
   const totalPages = Math.ceil(sortedProducts.length / itemsPerPage);
 
